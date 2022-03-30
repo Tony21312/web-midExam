@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    background-image: url(Screenshot-3.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    }
+    table{
+    width: 60%;
+    margin: auto;
+    font-size: 1.5em;
+    background-image: url(overlay.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    }
+    td{
+    border-bottom: 1px solid blue;
+    }

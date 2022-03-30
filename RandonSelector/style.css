@@ -1,0 +1,47 @@
+body {
+        text-align: center;
+        background-image: url("bg2.jpg");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+}
+
+li {
+        width: 150px;
+        height: 40px;
+        line-height: 40px;
+        text-align: center;
+        font-family: DFKai-SB;
+        background-color: rgb(169, 248, 248);
+        border-radius: 10px;
+        margin: 10px auto;
+        font-size: 30px;
+}
+
+h1{
+        width: 200px;
+        height: 70px;
+        line-height: 70px;
+        background-color:lightgray;
+        border-radius: 20px;
+        margin: 10px auto;
+        font-size: 60px;
+}
+input{
+        margin: 0px auto;
+        align-items: center;
+        width: 150px;
+        height: 40px;
+        display: block;
+        text-align: center;
+        cursor: pointer;
+        line-height: 40px;
+        color: #000;
+        background-color: transparent;
+        border: 1px solid #000;
+        transition: all .3s linear;
+}
+input:hover{
+        background-color: #000;
+        color: #fff;
+}

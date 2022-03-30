@@ -1,0 +1,8 @@
+body{
+    text-align: center;
+}
+h2{
+    /*leave space for the name of song*/
+    height: 32px;
+    font-size: medium;
+}
